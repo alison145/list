@@ -1,0 +1,34 @@
+# EXTM3U
+#EXTINF: -1 tvg-logo = ""group-title = "",SBT
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w983433369_b350000.m3u8
+#EXTINF: -1 tvg-logo = ""group-title = "",
+https://edge-aws.aovivotv.xyz/hls/s:23.88.123.254/telecinepremium_a929eb33_c6a780d33a5e7124555e1f0a655a2bafdb36ddaf/playlistjsf=YTozOntpOjA7czoxMjoiMTcyLjY5LjMuMjIxIjtpOjE7czoxMjI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMTsgU00tQTMwN0dUKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTYuMC40NjY0LjQ2IE1vYmlsZSBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjM5NjA5MTQ4O30%3D.m3u8?
+#EXTINF: -1 tvg-logo = ""group-title = "",SBT
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1310764323_b350000.m3u8
+#EXTINF: -1 tvg-logo = ""group-title = "",RECORD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&rebase=on
+#EXTINF: -1 tvg-logo = ""group-title = "",BABY TV
+https://m3u9.ml/b/hls1/babytv.m3u8?mu3zAQc9HC3GbwJq=Ot81hhk14FTF0qX2UgP-5w&3U1G7qaTxrPbalZnEx=1639990280
+#EXTINF: -1 tvg-logo = ""group-title = "",BLOOMBERG
+https://m3u9.ml/b/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=i52ERoS5LsFYs4kZQrDtLg&3U1G7qaTxrPbalZnEx=1639990280
+#EXTINF: -1 tvg-logo = ""group-title = "",TOONCOSAT
+#EXTINF: -1 tvg-logo = ""group-title = "",NICK JR
+https://m3u9.ml/b/hls1/nickjr.m3u8?mu3zAQc9HC3GbwJq=24gwn1QYNcRBLPcLcCdX6A&3U1G7qaTxrPbalZnEx=1639990172
+#EXTINF: -1 tvg-logo = ""group-title = "",NICKELODEON
+https://m3u9.ml/b/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=WXuBNTjRQ3I36J3c8_0vhw&3U1G7qaTxrPbalZnEx=1639990171
+#EXTINF: -1 tvg-logo = ""group-title = "",GLOBINHO
+https://m3u9.ml/b/hls1/gloob.m3u8?mu3zAQc9HC3GbwJq=hxUkGdjaN5dUed-hYe-yZQ&3U1G7qaTxrPbalZnEx=1639990174
+#EXTINF: -1 tvg-logo = ""group-title = "",DISNEY XD
+https://m3u9.ml/b/hls1/disneyxd.m3u8?mu3zAQc9HC3GbwJq=T23WqzruG8VCWUK0YiBTBg&3U1G7qaTxrPbalZnEx=1639990174
+#EXTINF: -1 tvg-logo = ""group-title = "",DISNEY JR
+https://m3u9.ml/b/hls1/disneyjunior.m3u8?mu3zAQc9HC3GbwJq=ROuAAbdTcY46dSgX8VOS9Q&3U1G7qaTxrPbalZnEx=1639990175
+#EXTINF: -1 tvg-logo = ""group-title = "",DISNEY CHANNEL 
+https://m3u9.ml/b/hls1/disney.m3u8?mu3zAQc9HC3GbwJq=lO7w4pux0KL8SiBAVUH7cQ&3U1G7qaTxrPbalZnEx=1639990176
+#EXTINF: -1 tvg-logo = ""group-title = "",CARTOON 
+https://m3u9.ml/b/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=0VPlR-HW73QQoDE8RUu4cw&3U1G7qaTxrPbalZnEx=1639990279
+#EXTINF: -1 tvg-logo = ""group-title = "",DISCOVERY KIDS
+https://m3u9.ml/b/hls1/discoverykids.m3u8?mu3zAQc9HC3GbwJq=anFQOPn0OQvJDemP3pv8sA&3U1G7qaTxrPbalZnEx=1639990266
+#EXTINF: -1 tvg-logo = ""group-title = "",NETGEO KITS
+https://m3u9.ml/b/hls1/natgeokids.m3u8?mu3zAQc9HC3GbwJq=fFFk8R8spH-KtgxBfQNErA&3U1G7qaTxrPbalZnEx=1639990172
+#EXTINF: -1 tvg-logo = ""group-title = "",NETGEO WILD
+https://m3u9.ml/b/hls1/natgeowild.m3u8?mu3zAQc9HC3GbwJq=-RYeV_LHiUomkb4jvYYjfA&3U1G7qaTxrPbalZnEx=1639989815
